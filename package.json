@@ -10,7 +10,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "webpack --watch --devtool=cheap-module-inline-source-map",
-    "build": "rimraf dist && webpack -p --define process.env.NODE_ENV='\"production\"'"
+    "build": "rimraf dist && webpack -p --define process.env.NODE_ENV='\"production\"'",
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "babel-polyfill": "^6.13.0",
