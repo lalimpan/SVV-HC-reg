@@ -5,7 +5,7 @@
   "author": "Mathilde Wærstad",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mathilwa/seniorbootcamp"
+    "url": "https://github.com/ChristofferMarcussen/SVV-HC-reg"
   },
   "scripts": {
     "start": "node server.js",

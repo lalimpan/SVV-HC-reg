@@ -1,4 +1,4 @@
-# Senior Bootcamp
+# App for Senior Bootcamp
 
 ## Dette må du installere for å bygge og kjøre:
 - Node.js
